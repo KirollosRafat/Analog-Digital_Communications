@@ -2,7 +2,7 @@
 
 # Analog Communication Schemes Such As:
 
-Amplitude Modulation.
+Amplitude Modulation (AM).
 
 Double Sided Band (DSB).
 
